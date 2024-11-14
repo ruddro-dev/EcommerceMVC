@@ -1,0 +1,36 @@
+C:\Users\erytym\source\repos\Ecommerce\Ecommerce.Models\bin\Debug\net8.0\Ecommerce.Models.deps.json
+C:\Users\erytym\source\repos\Ecommerce\Ecommerce.Models\bin\Debug\net8.0\Ecommerce.Models.dll
+C:\Users\erytym\source\repos\Ecommerce\Ecommerce.Models\bin\Debug\net8.0\Ecommerce.Models.pdb
+C:\Users\erytym\source\repos\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erytym\source\repos\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.AssemblyInfoInputs.cache
+C:\Users\erytym\source\repos\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.AssemblyInfo.cs
+C:\Users\erytym\source\repos\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.csproj.CoreCompileInputs.cache
+C:\Users\erytym\source\repos\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.dll
+C:\Users\erytym\source\repos\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\refint\Ecommerce.Models.dll
+C:\Users\erytym\source\repos\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.pdb
+C:\Users\erytym\source\repos\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\ref\Ecommerce.Models.dll
+C:\Users\erytym\source\repos\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.csproj.AssemblyReference.cache
+C:\Z\Ecommerce\Ecommerce.Models\bin\Debug\net8.0\Ecommerce.Models.deps.json
+C:\Z\Ecommerce\Ecommerce.Models\bin\Debug\net8.0\Ecommerce.Models.dll
+C:\Z\Ecommerce\Ecommerce.Models\bin\Debug\net8.0\Ecommerce.Models.pdb
+C:\Z\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.csproj.AssemblyReference.cache
+C:\Z\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Z\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.AssemblyInfoInputs.cache
+C:\Z\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.AssemblyInfo.cs
+C:\Z\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.csproj.CoreCompileInputs.cache
+C:\Z\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.dll
+C:\Z\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\refint\Ecommerce.Models.dll
+C:\Z\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.pdb
+C:\Z\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\ref\Ecommerce.Models.dll
+C:\Z\Before deploy\Ecommerce\Ecommerce.Models\bin\Debug\net8.0\Ecommerce.Models.deps.json
+C:\Z\Before deploy\Ecommerce\Ecommerce.Models\bin\Debug\net8.0\Ecommerce.Models.dll
+C:\Z\Before deploy\Ecommerce\Ecommerce.Models\bin\Debug\net8.0\Ecommerce.Models.pdb
+C:\Z\Before deploy\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.csproj.AssemblyReference.cache
+C:\Z\Before deploy\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Z\Before deploy\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.AssemblyInfoInputs.cache
+C:\Z\Before deploy\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.AssemblyInfo.cs
+C:\Z\Before deploy\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.csproj.CoreCompileInputs.cache
+C:\Z\Before deploy\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.dll
+C:\Z\Before deploy\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\refint\Ecommerce.Models.dll
+C:\Z\Before deploy\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.pdb
+C:\Z\Before deploy\Ecommerce\Ecommerce.Models\obj\Debug\net8.0\ref\Ecommerce.Models.dll

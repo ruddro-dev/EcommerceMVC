@@ -1,0 +1,43 @@
+﻿<div class="row pb-3">
+    @foreach (var product in Model)
+    {
+        <div class="col-lg-3 col-sm-6 d-flex">
+            <div class="card border-0 p-3 shadow border-top border-5 rounded d-flex flex-column w-100">
+                <!-- Wrap image inside an anchor tag for details link -->
+                <a asp-action="Details"
+                   asp-route-productId="@product.Id"
+                   class="card-img-top-wrapper"
+                   style="height: 200px; overflow: hidden; display: flex; align-items: center; justify-content: center; text-decoration: none;">
+                    <img src="@product.ImageUrl" class="card-img-top rounded" style="width: 100%; height: 100%; object-fit: contain;" />
+                </a>
+
+                <div class="card-body flex-grow-1 d-flex flex-column">
+                    <div class="text-center">
+                        <p class="card-title h5 text-dark opacity-75 text-uppercase">@product.Title</p>
+                        <p class="card-title text-warning">by <b>@product.Author</b></p>
+                    </div>
+                    <div class="mt-auto text-center">
+                        <p class="text-dark text-opacity-75 mb-0">
+                            List Price:
+                            <span class="text-decoration-line-through">
+                                @product.ListPrice.ToString("c")
+                            </span>
+                        </p>
+                        <p class="text-dark text-opacity-75">
+                            As low as:
+                            <span>@product.Price100.ToString("c")</span>
+                        </p>
+                    </div>
+                </div>
+
+                <div>
+                    <a asp-action="Details"
+                       asp-route-productId="@product.Id"
+                       class="btn btn-primary bg-gradient border-0 form-control details-button">
+                        Details
+                    </a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
