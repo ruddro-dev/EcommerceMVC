@@ -10,7 +10,7 @@ This is a comprehensive E-commerce application built using ASP.NET Core MVC. It 
 Clone the Repository:
 
 ```bash
-  https://github.com/erytym/EcommerceMVC.git
+  https://github.com/ruddro-dev/EcommerceMVC.git
 ```
 
 Configure the App:
